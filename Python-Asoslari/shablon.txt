@@ -1,0 +1,33 @@
+
+Saytga kirish project | funksiya yordamida
+
+1.
+Assalomu Alaykum hush kelibsiz
+Saytga kirish uchun quydagi formani to'ldiring:
+
+
+2.
+1 - kirish
+2 - ro'yxatdan o'tish
+
+
+3.
+ro'yxatdan o'tishda userdan so'rasin:
+ism:
+familya:
+gmail:
+kod:
+ID raqam:
+formani to'ldirgach ro'yxatdan o'tdingiz:
++ formani to'ldirgach login ya'ni kirish menusi:
+1 - kirish
+2 - ro'yxatdan o'tish  |  qaytib kelsin continue yordamida
+
+
+4.
+1 - kirishni tanlaganda ya'ni saytga kirish uchun:
+ismi, va kodni so'rasin va saytga kirsin:
+
+
+
+
